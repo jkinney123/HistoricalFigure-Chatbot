@@ -1,7 +1,7 @@
-Ai powered language learning assistant powered by GPT.
+Travel through time and chat with your favorite historical figures!
 
 deployed live at https://timetravelchats.herokuapp.com/
 
-Must have an OpenAI GPT-4 API key for application to work. 
+
 
 
